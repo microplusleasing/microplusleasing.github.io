@@ -1,0 +1,22 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appIDs": [
+          "86N2P4Q323.com.microplusleasing.microplus",
+          "86N2P4Q323.com.microplusleasing.microplus.staging",
+          "86N2P4Q323.com.microplusleasing.microplus.development"
+        ],
+        "paths": [
+          "*"
+        ],
+        "components": [
+          {
+            "/": "/*"
+          }
+        ]
+      }
+    ]
+  }
+}

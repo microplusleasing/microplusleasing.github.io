@@ -1,0 +1,32 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_url.ws"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.microplusleasing.microplus",
+      "sha256_cert_fingerprints": [
+        "CE:F9:1D:8B:19:E6:D0:81:35:86:69:B4:6A:C7:02:80:33:73:A7:F3:26:1E:D8:0F:5C:64:59:EA:0B:12:F7:C1"
+      ]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.microplusleasing.microplus.stg",
+      "sha256_cert_fingerprints": [
+        "BE:0E:6B:F6:3A:46:0A:94:A5:F5:F4:B2:B1:B3:41:F6:E6:B6:EB:02:DB:08:77:B0:63:18:58:9D:E5:44:F1:43"
+      ]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.microplusleasing.microplus.dev",
+      "sha256_cert_fingerprints": [
+        "BE:0E:6B:F6:3A:46:0A:94:A5:F5:F4:B2:B1:B3:41:F6:E6:B6:EB:02:DB:08:77:B0:63:18:58:9D:E5:44:F1:43"
+      ]
+    }
+  }
+]
